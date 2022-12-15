@@ -1,0 +1,12 @@
+version: "3"
+services:
+  rates-db-container:
+    image: "rates-db:latest"
+    ports:
+      - "5432:5432"
+
+  rates-api-container:
+    image: "rates-api:latest"
+    ports:
+      - "5000:5000"
+    
