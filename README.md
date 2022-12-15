@@ -8,7 +8,7 @@ Useful links:
 [How to Install Docker and Docker Compose on Linux](https://www.howtogeek.com/devops/how-to-install-docker-and-docker-compose-on-linux/)  
 
 1. Clone the project
-`git clone ....`
+`git clone https://github.com/Swayambhoo-Manu/rates-api.git`
 
 2. Change directories  
 `cd rates-api`
